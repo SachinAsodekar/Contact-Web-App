@@ -1,7 +1,7 @@
 
 # Contact Web App (FrontEnd)
 
-This simple webapp created to demontrate the ability of handling CRUD operations on client side using React.js class and functional components.
+This simple webapp created to demonstrate the ability of handling CRUD operations on client side using React.js class and functional components.
 
 
 ## Actions you can perform
