@@ -14,7 +14,7 @@ This simple webapp created to demonstrate the ability of handling CRUD operation
     6.Update Contact OR Cancel process in between and preserve the state.
 
 
-## React Concepts Coeverd:
+## React Concepts Covered:
     1.Class and Functional Components
     2.State Handling
     3.Passing Data and Functions from parent to child using props
